@@ -1,0 +1,107 @@
+h2.content {
+    border: 3px solid black;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.content {
+    box-sizing: border-box;
+    border: 1px solid #466995;
+    margin: 20px;
+    display: block;
+}
+
+.color_fuchsia {
+    background-color: fuchsia;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 80px 120px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.color_lime {
+    background-color: lime;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 80px 120px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.color_yellow {
+    background-color: yellow;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 80px 120px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.color_aqua {
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 80px 120px;
+    margin: 20px;
+
+    display: inline-block;
+}
+
+
+.content h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px;
+}
+
+.content h3 {
+    text-decoration: underline;
+}
+
+.regular_arial {
+    font-family: arial;
+}
+
+.bold_arial {
+    font-family: arial;
+    font-weight: bold;
+}
+
+.italic_arial {
+    font-family: arial;
+    font-style: italic;
+}
+
+.regular_helvetica {
+    font-family: helvetica;
+}
+
+.bold_helvetica {
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.italic_helvetica {
+    font-family: helvetica;
+    font-style: italic;
+}
+
+.regular_times_new_roman {
+    font-family: 'rublik maps';
+}
+
+.bold_times_new_roman {
+    font-family: 'rublik maps';
+    font-weight: bold;
+}
+
+.italic_times_new_roman {
+    font-family: 'rublik maps';
+    font-style: italic;
+}
